@@ -23,7 +23,7 @@ class TaskRepositoryImpl : TaskRepository {
         source.value = data
     }
 
-    var data = arrayListOf<Task>(
+    var data = arrayListOf(
         Task(
             id = "1",
             content = "tasks 1",

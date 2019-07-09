@@ -43,3 +43,8 @@ class TaskViewModel constructor(
         _filter.value = filter
     }
 }
+
+
+fun main() {
+
+}
